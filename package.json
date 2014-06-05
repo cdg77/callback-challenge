@@ -1,0 +1,14 @@
+{
+  "name": "callback-challenge",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Carlo De Gregorio",
+  "license": "MIT"
+}
